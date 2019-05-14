@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"/Users/tech-a24/Documents/engineering-29/8-week/vitual-environments/test_repo/node-virtual-env/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a24/Documents/engineering-29/8-week/vitual-environments/test_repo/node-virtual-env","disabled":false,"__vagrantfile":true}}}
